@@ -236,7 +236,7 @@ public class mathy
 
 		int x;
 
-		for (int i = 0; i<10;i++
+		for (int i = 0; i<10;i++)
 		{
 			x = i * num;
 
@@ -245,6 +245,14 @@ public class mathy
 		return num;
 
 
+	}
+	public int conflictCode(int num)
+	{
+
+
+
+		//p1
+		return 0;
 	}
 	public void testingbranch (int x)
 	{

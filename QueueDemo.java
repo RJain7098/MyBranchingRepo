@@ -9,7 +9,8 @@ public class QueueDemo
 
       while (!q.empty())
       {
-         //remove from q
+         System.out.println("Haha this is a troll infinite loop get rekt"); 
+	//this should cause a conflict since Neil wrote something else 
       }
    }
 }

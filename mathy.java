@@ -236,7 +236,7 @@ public class mathy
 
 		int x;
 
-		for (int i = 0; i<10;i++
+		for (int i = 0; i<10;i++)
 		{
 			x = i * num;
 
@@ -256,7 +256,7 @@ public class mathy
 			num += i*x; 
 		}
 		return num; 
-		//this should cause a conflict
+		//now it should be fixed 
 
 	}
 	public void testingbranch (int x)

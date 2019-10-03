@@ -256,6 +256,7 @@ public class mathy
 			num += i*x; 
 		}
 		return num; 
+		//this should cause a conflict
 
 	}
 	public void testingbranch (int x)
